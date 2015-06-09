@@ -88,7 +88,7 @@ module.exports = function(grunt) {
         premailer: {
           html: {
             options: {
-              removeComments: true
+              removeComments: false
             },
             files: [{
                 expand: true,
