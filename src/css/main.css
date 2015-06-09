@@ -41,4 +41,46 @@ img {
   max-width: 600px;
 }
 
+/*Full-width Banner Image*/
+.full-width-image img {
+  width: 100%;
+  height: auto;
+}
+
+/*Adding a Single Column Layout*/
+.inner {
+  padding: 10px;
+}
+
+p {
+  Margin: 0;
+}
+
+a {
+  color: #ee6a56;
+  text-decoration: underline;
+}
+
+.h1 {
+  font-size: 21px;
+  font-weight: bold;
+  Margin-bottom: 18px;
+}
+
+.h2 {
+  font-size: 18px;
+  font-weight: bold;
+  Margin-bottom: 12px;
+}
+
+/* One column layout */
+.one-column .contents {
+  text-align: left;
+}
+
+.one-column p {
+  font-size: 14px;
+  Margin-bottom: 10px;
+}
+
 /*# sourceMappingURL=main.css.map */
