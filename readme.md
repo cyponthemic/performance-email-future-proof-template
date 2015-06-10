@@ -1,7 +1,11 @@
 # Grunt Email Design Workflow - Future-Proof Responsive Email Without Media Queries
 
-Need to be written
-Starter library based on the Future-Proof Responsive Email Without Media Queries method found in [this article](http://webdesign.tutsplus.com/tutorials/creating-a-future-proof-responsive-email-without-media-queries--cms-23919?via=emailweekly)
+
+Starter library based on the Future-Proof Responsive Email Without Media Queries method found in [this article](http://webdesign.tutsplus.com/tutorials/creating-a-future-proof-responsive-email-without-media-queries--cms-23919?via=emailweekly).
+
+What you can achieve : [demo](http://tutsplus.github.io/creating-a-future-proof-responsive-email-without-media-queries/index.html).
+
+
 
 # Grunt Email Design Workflow
 
