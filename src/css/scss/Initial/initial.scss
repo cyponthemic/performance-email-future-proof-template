@@ -44,7 +44,7 @@ img {
     height: auto;
 }
 
-/*Adding a Single Column Layout*/
+/*                          5. Adding a Single Column Layout*/
 
 .inner {
     padding: 10px;
@@ -68,10 +68,41 @@ a {
 }
  
 /* One column layout */
+
 .one-column .contents {
     text-align: left;
 }
 .one-column p {
     font-size: 14px;
     Margin-bottom: 10px;
+}
+
+/*                          6. Adding a Two-column Layout*/
+
+/*Two column layout*/
+.two-column {
+    text-align: center;
+    font-size: 0;
+}
+.two-column .column {
+    width: 100%;
+    max-width: 300px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.contents {
+    width: 100%;
+}
+
+.two-column .contents {
+    font-size: 14px;
+    text-align: left;
+}
+.two-column img {
+    width: 100%;
+    height: auto;
+}
+.two-column .text {
+    padding-top: 10px;
 }
