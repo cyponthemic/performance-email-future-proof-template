@@ -106,3 +106,31 @@ a {
 .two-column .text {
     padding-top: 10px;
 }
+
+/*                           7. Adding a Three-column Layout*/
+
+/*Three column layout*/
+
+.three-column {
+    text-align: center;
+    font-size: 0;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.three-column .column {
+    width: 100%;
+    max-width: 200px;
+    display: inline-block;
+    vertical-align: top;
+}
+.three-column .contents {
+    font-size: 14px;
+    text-align: center;
+}
+.three-column img {
+    width: 100%;
+    height: auto;
+}
+.three-column .text {
+    padding-top: 10px;
+}
